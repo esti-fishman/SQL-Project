@@ -29,7 +29,7 @@ SQL Project, written in java using:
 ![__Phrases](https://user-images.githubusercontent.com/62060107/118803009-7e21e100-b8ab-11eb-876b-d07fc9bf806b.PNG)
 
 ### Statistics
-![statistics](https://user-images.githubusercontent.com/62060107/118803024-85e18580-b8ab-11eb-9831-5a1f3a694a2c.PNG)
+![statistics](https://user-images.githubusercontent.com/62060107/119937936-447c6480-bf94-11eb-9269-90b130486db7.PNG)
 
 ## Schema
 ### Entity relationship diagram
